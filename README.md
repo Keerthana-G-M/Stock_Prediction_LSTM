@@ -32,7 +32,7 @@ This project demonstrates how to:
 ```bash
 .
 ├── APPL.csv                    # Sample DataSet used.
-├── Stock_Prediction.ipynb      # Main Jupyter Notebook with all code
 ├── README.md                   # You're here
+├── Stock_Prediction.ipynb      # Main Jupyter Notebook with all code
 └── requirements.txt            # Required Python libraries
 
