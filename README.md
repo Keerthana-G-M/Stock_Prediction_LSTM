@@ -7,7 +7,7 @@ A deep learning-based time series prediction project that uses an LSTM (Long Sho
 ## 📌 Overview
 
 This project demonstrates how to:
-- Collect historical stock price data using `yfinance`
+- Collect historical stock price data `APPL.csv`
 - Preprocess the data for time series forecasting
 - Build an LSTM model to learn from past data
 - Predict future stock closing prices
@@ -33,5 +33,6 @@ This project demonstrates how to:
 .
 ├── APPL.csv                    # Sample DataSet used.
 ├── Stock_Prediction.ipynb      # Main Jupyter Notebook with all code
-├── requirements.txt            # Required Python libraries
-└── README.md                   # You're here
+├── README.md                   # You're here
+└── requirements.txt            # Required Python libraries
+
