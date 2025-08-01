@@ -21,7 +21,6 @@ This project demonstrates how to:
 - **Libraries:**
   - `pandas`, `numpy`
   - `matplotlib`
-  - `yfinance`, `pandas_datareader`
   - `scikit-learn`
   - `tensorflow` (with Keras backend)
 
